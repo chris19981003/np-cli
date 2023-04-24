@@ -1,0 +1,17 @@
+{
+  "name": "@nickpolom/vue-template",
+  "version": "1.0.2",
+  "description": "nickpolom vue3 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+  
+  
+}

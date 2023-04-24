@@ -1,0 +1,15 @@
+{
+  "name": "@nickpolom/react-template",
+  "version": "1.0.1",
+  "description": "nickpolom react template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
